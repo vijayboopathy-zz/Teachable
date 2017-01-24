@@ -21,4 +21,16 @@
   * Python 1.4
   * Python 1.6
 
-4.
+4. Ansible uses agents for management.
+
+  * True
+  * False
+
+5. What model Ansible uses to configure nodes?
+
+  * Pull Model
+  * Push Model
+  * Poll Model
+  * None of the above
+
+6. 
