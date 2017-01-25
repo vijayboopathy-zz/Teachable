@@ -52,4 +52,4 @@
   * Splunk
   * RedHat
 
-10. --------- is the enterprise version of Ansible.(Ansible-Tower)
+10. --------- is the enterprise version of Ansible. (Ansible-Tower)
