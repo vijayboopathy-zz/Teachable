@@ -55,4 +55,4 @@
   * Core modules are maintained by the Ansible Team
   * All modules return data in XML format
 
-10. --------- is used to manage users in a machine.
+10. --------- module is used to manage users in a machine.
