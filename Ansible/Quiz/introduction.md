@@ -16,7 +16,7 @@
 
 3. Ansible requires which version of Python to be installed?
 
-  * Python 2.6
+  * Python 2.6 or 2.7
   * Python 3
   * Python 1.4
   * Python 1.6
