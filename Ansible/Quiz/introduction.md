@@ -5,7 +5,7 @@
   * Continuous Integration Tool
   * Monitoring Tool
   * Configuration Management Tool
-  * Version Control System
+  * Log Management Tool
 
 2. Ansible manages machines over which protocol?
 
@@ -33,4 +33,23 @@
   * Poll Model
   * None of the above
 
-6. 
+6. Ansible does not take care of deployment and orchestration.
+
+  * True
+  * False
+
+8. Which of the following is true in Ansible?
+
+  * Code is sharable
+  * Data is sharable
+  * Variables are sharable
+  * None of the above
+
+9. Ansible is acquired by?
+
+  * Oracle
+  * Microsoft
+  * Splunk
+  * RedHat
+
+10. --------- is the enterprise version of Ansible.(Ansible-Tower)

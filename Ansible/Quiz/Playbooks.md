@@ -60,8 +60,8 @@
 9. Meaning of Idempotency is
 
   * Not changing when repeated
-  * Changing every time when called
-  * Change once, never change again
+  * Changing every time when repeated
+  * Method checking errors
   * None of the above
 
 10. Every playbook should contain only one playbook
